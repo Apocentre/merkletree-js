@@ -7,7 +7,6 @@
   "scripts": {},
   "type": "module",
   "dependencies": {
-    "keccak256": "^1.0.6",
     "sha3": "^2.1.4",
     "tiny-invariant": "^1.2.0"
   },
